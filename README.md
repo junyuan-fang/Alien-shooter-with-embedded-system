@@ -4,7 +4,7 @@
 
 #"src" has c-language's codes
 
-#"src" has the same performance but in rust-laguage
+#"src-rust" has the same performance but in rust-laguage
 
 #Envirment of xilinx, cargo and pynq-fpga is required 
 

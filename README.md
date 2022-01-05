@@ -1,10 +1,10 @@
 # Alien-shooter-with-embedded-system
 
-#Those codes need to be replaced in the right enviroment then it works.
+#Those codes need to be replaced in the right environment then it works.
 
 #"src" has c-language's codes
 
-#"src-rust" has the same performance but in rust-laguage
+#"src-rust" has the same performance but in rust-language
 
 #Envirment of xilinx, cargo and pynq-fpga is required 
 

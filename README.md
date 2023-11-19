@@ -1,5 +1,7 @@
 # Alien-shooter-with-embedded-system
 
+![Game GIF](https://github.com/junyuan-fang/Alien-shooter-with-embedded-system/raw/main/game.gif)
+
 #Those codes need to be replaced in the right environment then it works.
 
 #"src" has c-language's codes
